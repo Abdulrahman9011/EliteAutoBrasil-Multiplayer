@@ -1,0 +1,8 @@
+{
+  "name": "moto-online-relay",
+  "version": "1.0.0",
+  "description": "Room relay for Moto Online (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
